@@ -1,7 +1,7 @@
-Eclipse Black CSS
-=================
+Eclipse Dark CSS
+================
 
-This project contains a CSS file that you can use to customize your Eclipse IDE in black.
+This project contains a CSS file that you can use to customize your Eclipse IDE in dark colors.
 
 This is not a perfect solution, as the scrollbars and other IDE elements aren't themed, but I use it to work everyday in a less eye-stressing environment.
 
