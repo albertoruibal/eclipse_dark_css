@@ -28,4 +28,4 @@ With this CSS Spy Tool you can browse through the styles of the SWT interface an
 References
 ==========
 
-This CSS was initially from the "Eclipse Darker Theme" https://github.com/jinmingjian/eclipse.themes.darker and I made some modifications
+This CSS was initially from the "Eclipse Darker Theme" https://github.com/jinmingjian/eclipse.themes.darker and I made some modifications.
