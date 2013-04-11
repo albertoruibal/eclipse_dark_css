@@ -1,7 +1,10 @@
 Eclipse Dark CSS
 ================
 
-This project contains a CSS file that you can use to customize your Eclipse IDE in dark colors.
+This project contains some CSS files that you can use to customize your Eclipse IDE in dark colors.
+
+* black.css: Black background
+* dark_gray.css: Dark gray (#333) backgound
 
 ![Screenshot](https://github.com/albertoruibal/eclipse_dark_css/raw/master/screenshot.png)
 
@@ -9,12 +12,12 @@ This is not a perfect solution, as the scrollbars and other IDE elements aren't 
 
 Steps to customize eclipse
 * Install "E4 CSS Editor (Incubation)" from the Eclipse Platform Incubator (Update site: http://download.eclipse.org/e4/updates/0.12)
-* Go to Preferences->General->Appearance and now you can paste the contents of dark.css in the new CSS text box (I modified the "Default Theme")
+* Go to Preferences->General->Appearance and now you can paste the contents of the CSS file (black.css or dark_gray.css) in the new CSS text box (I modified the "Default Theme")
 * Install "Eclipse Color Theme" (Update site: http://eclipse-color-theme.github.com/update) 
 * Go to Preferences->General->Appearance->Color Theme and choose a black theme (I use the "RecognEyes" theme)
 
-Finally (and this needs a lot of time), you need to change manually some colors (backgrounds to #333 and foregrounds to light colors)
-* Preferences->General->Appearance->Colors and Fonts
+Finally (and this needs a lot of time), you need to change manually some colors (backgrounds to #333 if dark gray or #000 if black and foregrounds to light colors)
+* Preferences->General->Appearance->Colors and Fonts (You can filter using the "background" keyword)
 * Preferences->General->Editors->Text Editors
 * Preferences->Run/Debug->Console
 
@@ -28,4 +31,4 @@ With this CSS Spy Tool you can browse through the styles of the SWT interface an
 References
 ==========
 
-This CSS was initially from the "Eclipse Darker Theme" https://github.com/jinmingjian/eclipse.themes.darker and I made some modifications.
+This CSSs were initially from the "Eclipse Darker Theme" https://github.com/jinmingjian/eclipse.themes.darker and I made some modifications.
