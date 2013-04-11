@@ -11,7 +11,7 @@ Steps to customize eclipse
 * Install "E4 CSS Editor (Incubation)" from the Eclipse Platform Incubator (Update site: http://download.eclipse.org/e4/updates/0.12)
 * Go to Preferences->General->Appearance and now you can paste the contents of dark.css in the new CSS text box (I modified the "Default Theme")
 * Install "Eclipse Color Theme" (Update site: http://eclipse-color-theme.github.com/update) 
-* Go to Preferences->General->Appearance->Color Theme and choose a black theme (I use the "Sublime Text" style)
+* Go to Preferences->General->Appearance->Color Theme and choose a black theme (I use the "RecognEyes" theme)
 
 Finally (and this needs a lot of time), you need to change manually some colors (backgrounds to #333 and foregrounds to light colors)
 * Preferences->General->Appearance->Colors and Fonts
