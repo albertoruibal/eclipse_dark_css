@@ -32,3 +32,10 @@ References
 ==========
 
 This CSSs were initially from the "Eclipse Darker Theme" https://github.com/jinmingjian/eclipse.themes.darker and I made some modifications.
+
+Problems
+========
+
+The E4 CSS Editor saves the CSS files in the $HOME/.e4css directory.
+
+At some point my E$ CSS Editor stopped saving the CSS changes, and I had to delete the $HOME/.e4css directory, then it started working again.
